@@ -1,15 +1,15 @@
 <script>
 export default {
-    name: "MyComponent"
+    name: "AppTitle"
 }
 </script>
 
 <template>
-    <h1 class="read-the-docs">Come è bello il carosello!!</h1>
+    <h1 class="read-the-docs">La mia prima app con Vite!</h1>
 </template>
 
 <style scoped>
 .read-the-docs {
-    color: #888;
+    color: #09ff00;
 }
 </style>
